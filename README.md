@@ -112,3 +112,8 @@ The following environment variables need to be set in your `.env` file:
 - `VITE_FIREBASE_API_KEY`: Secret API key for firebase
 
 ![alt text](https://github.com/Adarsh71002/Task1/blob/master/HomePage.png)
+
+
+![alt text](https://github.com/Adarsh71002/Task1/blob/master/LoginPage.png)
+
+![alt text](https://github.com/Adarsh71002/Task1/blob/master/ListingsPage.png)
