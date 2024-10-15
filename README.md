@@ -81,7 +81,7 @@ Check out the live demo of the application: [MERN Estate Demo](https://task1-dzh
     npm start
     ```
 
-4. Your application should now be running on `http://localhost:3000`.
+4. My application should now be running on `http://localhost:3000`.
 
 ## API Endpoints
 
@@ -111,4 +111,4 @@ The following environment variables need to be set in your `.env` file:
 - `JWT_SECRET`: Secret key for JWT
 - `VITE_FIREBASE_API_KEY`: Secret API key for firebase
 
-
+![alt text](https://github.com/Adarsh71002/Task1/blob/master/HomePage.png)
